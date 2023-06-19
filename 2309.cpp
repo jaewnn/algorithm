@@ -1,4 +1,5 @@
 //  일곱난쟁이
+// 이중 중첩문을 이용하여 합계가 100이면 탈출하게 하여 코드 구현
 #include <bits/stdc++.h>
 using namespace std;
 vector<int> all;
