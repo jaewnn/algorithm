@@ -9,7 +9,7 @@ int main(){
     string word;
     cin >> word;
     
-    for(int i=97;i<128;i++){
+    for(int i=97;i<123;i++){
         int count=0;
         for(int j=0;j<word.size();j++){
             if(i==word[j]) count++;
