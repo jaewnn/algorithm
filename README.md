@@ -8,5 +8,11 @@
 10808 : 단어에 특정 알파벳 개수 구하는 문제
 <https://www.acmicpc.net/problem/10808>
 
+10988 : 펠린 드롬 문제
+<https://www.acmicpc.net/problem/10988>
+
+1159 : 농구선수(알파벳 1번째가 같은 5명 선수 추출)
+<https://www.acmicpc.net/problem/1159>
+
 2559 : 수열의 합 구하는 문제
 <https://www.acmicpc.net/problem/2559>
