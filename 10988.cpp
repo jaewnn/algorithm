@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 // 팰린드롬인지 확인하기
-
+// 글자의 양끝에서 문자를 비교하면서 넘어감
+// 만약 다르면 브레이크
 
 int main(){
     ios_base::sync_with_stdio(false);
