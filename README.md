@@ -16,3 +16,6 @@
 
 2559 : 수열의 합 구하는 문제
 <https://www.acmicpc.net/problem/2559>
+
+1620 : 자료구조 맵 문제
+<https://www.acmicpc.net/problem/1620>
